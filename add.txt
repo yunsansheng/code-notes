@@ -2,3 +2,4 @@
 # pip3 install -r add.txt
 # pandas and numpy
 pandas==1.2.3
+bash-kernel==0.7.2
