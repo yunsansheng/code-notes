@@ -1,0 +1,4 @@
+--index-url https://pypi.douban.com/simple
+# pip3 install -r add.txt
+# pandas and numpy
+pandas==1.2.3
