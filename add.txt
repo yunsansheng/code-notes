@@ -3,3 +3,6 @@
 # pandas and numpy
 pandas==1.2.3
 bash-kernel==0.7.2
+
+jupyter-c-kernel==1.2.2
+install_c_kernel
